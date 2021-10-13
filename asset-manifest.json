@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.e09eec41.chunk.css",
-    "main.js": "/landing-page/static/js/main.f27bd28a.chunk.js",
-    "main.js.map": "/landing-page/static/js/main.f27bd28a.chunk.js.map",
-    "runtime-main.js": "/landing-page/static/js/runtime-main.4ffe7ddc.js",
-    "runtime-main.js.map": "/landing-page/static/js/runtime-main.4ffe7ddc.js.map",
-    "static/js/2.68a5f881.chunk.js": "/landing-page/static/js/2.68a5f881.chunk.js",
-    "static/js/2.68a5f881.chunk.js.map": "/landing-page/static/js/2.68a5f881.chunk.js.map",
-    "index.html": "/landing-page/index.html",
-    "static/css/main.e09eec41.chunk.css.map": "/landing-page/static/css/main.e09eec41.chunk.css.map",
-    "static/js/2.68a5f881.chunk.js.LICENSE.txt": "/landing-page/static/js/2.68a5f881.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/landing-page/static/media/svg-1.9b6d650e.svg",
-    "static/media/svg-2.svg": "/landing-page/static/media/svg-2.f4ac2b4f.svg",
-    "static/media/svg-3.svg": "/landing-page/static/media/svg-3.1540214d.svg",
-    "static/media/video.7d1ea6a9.mp4": "/landing-page/static/media/video.7d1ea6a9.mp4"
+    "main.css": "/LandingPageFireBase/static/css/main.e09eec41.chunk.css",
+    "main.js": "/LandingPageFireBase/static/js/main.f27bd28a.chunk.js",
+    "main.js.map": "/LandingPageFireBase/static/js/main.f27bd28a.chunk.js.map",
+    "runtime-main.js": "/LandingPageFireBase/static/js/runtime-main.27e7585f.js",
+    "runtime-main.js.map": "/LandingPageFireBase/static/js/runtime-main.27e7585f.js.map",
+    "static/js/2.36bbf9ef.chunk.js": "/LandingPageFireBase/static/js/2.36bbf9ef.chunk.js",
+    "static/js/2.36bbf9ef.chunk.js.map": "/LandingPageFireBase/static/js/2.36bbf9ef.chunk.js.map",
+    "index.html": "/LandingPageFireBase/index.html",
+    "static/css/main.e09eec41.chunk.css.map": "/LandingPageFireBase/static/css/main.e09eec41.chunk.css.map",
+    "static/js/2.36bbf9ef.chunk.js.LICENSE.txt": "/LandingPageFireBase/static/js/2.36bbf9ef.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/LandingPageFireBase/static/media/svg-1.9b6d650e.svg",
+    "static/media/svg-2.svg": "/LandingPageFireBase/static/media/svg-2.f4ac2b4f.svg",
+    "static/media/svg-3.svg": "/LandingPageFireBase/static/media/svg-3.1540214d.svg",
+    "static/media/video.7d1ea6a9.mp4": "/LandingPageFireBase/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ffe7ddc.js",
-    "static/js/2.68a5f881.chunk.js",
+    "static/js/runtime-main.27e7585f.js",
+    "static/js/2.36bbf9ef.chunk.js",
     "static/css/main.e09eec41.chunk.css",
     "static/js/main.f27bd28a.chunk.js"
   ]
